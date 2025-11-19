@@ -1,5 +1,9 @@
+# Не пушимо токени, середовища, кеші
+.env
 __pycache__/
 *.pyc
-.env
-.venv/
+*.pyo
+*.pyd
+venv/
+.idea/
 .vscode/
